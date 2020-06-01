@@ -1,0 +1,62 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppThemeGreen" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimaryGreen</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkGreen</item>
+        <item name="colorAccent">@color/colorAccentGreen</item>
+        <item name="android:textColor">@color/colorTextGreen</item>
+        <item name="android:windowBackground">@color/backgroundGreen</item>
+        <item name="MyButtonStyle">@style/buttonGreen</item>
+        <item name="MySpinnerStyle">@style/spinnerGreen</item>
+    </style>
+
+    <style name="AppThemeBlack" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimaryBlack</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkBlack</item>
+        <item name="colorAccent">@color/colorAccentBlack</item>
+        <item name="android:textColor">@color/colorTextBlack</item>
+        <item name="android:windowBackground">@color/backgroundBlack</item>
+        <item name="MyButtonStyle">@style/buttonBlack</item>
+        <item name="MySpinnerStyle">@style/spinnerBlack</item>
+    </style>
+
+    <style name="AppThemeBlue" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimaryBlue</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkBlue</item>
+        <item name="colorAccent">@color/colorAccentBlue</item>
+        <item name="android:textColor">@color/colorTextBlue</item>
+        <item name="android:windowBackground">@color/backgroundBlue</item>
+        <item name="MyButtonStyle">@style/buttonBlue</item>
+        <item name="MySpinnerStyle">@style/spinnerBlue</item>
+    </style>
+
+    <style name="buttonGreen">
+        <item name="android:background">@color/buttonGreenStyle</item>
+    </style>
+
+    <style name="buttonBlack">
+        <item name="android:background">@color/buttonBlackStyle</item>
+    </style>
+
+    <style name="buttonBlue">
+        <item name="android:background">@color/buttonBlueStyle</item>
+    </style>
+
+    <style name="spinnerGreen">
+        <item name="android:popupBackground">@color/backgroundGreen</item>
+    </style>
+
+    <style name="spinnerBlack">
+        <item name="android:popupBackground">@color/backgroundBlack</item>
+    </style>
+
+    <style name="spinnerBlue">
+        <item name="android:popupBackground">@color/backgroundBlue</item>
+    </style>
+</resources>

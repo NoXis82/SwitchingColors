@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SwitchingColors</string>
+    <string name="text_1">Sprache wechseln</string>
+    <string name="text_color">Wählen Sie eine Farbe</string>
+    <string name="button">Bewerben</string>
+    <string name="text_view">Drei Wege führen zum Wissen: Der Weg der Reflexion ist der edelste,
+        der Weg der Nachahmung ist der einfachste und der Weg der Erfahrung der bitterste.</string>
+    <string-array name="language">
+        <item>Russisch</item>
+        <item>Englisch</item>
+        <item>Deutsch</item>
+    </string-array>
+
+    <string-array name="colors">
+        <item>Schwarz</item>
+        <item>Grün</item>
+        <item>Blau</item>
+    </string-array>
+
+</resources>

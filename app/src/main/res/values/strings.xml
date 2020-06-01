@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SwitchingColors</string>
+    <string name="text_1">Изменить язык</string>
+    <string name="text_color">Выбрать цвет</string>
+    <string name="button">Применить</string>
+    <string name="text_view">Три пути ведут к знанию: путь размышления — это путь самый благородный,
+        путь подражания — это путь самый легкий и путь опыта — это путь самый горький.</string>
+    <string-array name="language">
+        <item>Русский</item>
+        <item>Английский</item>
+        <item>Немецкий</item>
+    </string-array>
+
+    <string-array name="colors">
+        <item>Черный</item>
+        <item>Зеленый</item>
+        <item>Синий</item>
+    </string-array>
+
+</resources>
